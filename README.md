@@ -1,1 +1,1 @@
-# Exploratory Data Analysis on E-commerce public dataset using Google BigQuery
+# Google BigQuery for Data Analysis
